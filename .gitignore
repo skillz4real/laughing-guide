@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 #stuff that I actually added
-Dev/
 Include/
 Lib/
 Scripts/
