@@ -18,4 +18,4 @@ if __name__ == "__main__":
     #os.system("./script.sh")
     #c.remove()
     with open('log.txt', 'a') as f:
-        f.write('main.py ran on {datetime.now()}')
+        f.write(f'main.py ran on {datetime.now()}')
