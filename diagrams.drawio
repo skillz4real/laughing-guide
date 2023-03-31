@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T17:41:49.086Z" agent="5.0 (Windows)" etag="Ynx_6UcYBnMi6LZ0tJgL" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-31T21:19:06.669Z" agent="5.0 (Windows)" etag="j7R_tAhJ8ODyPLiAwCsR" version="20.8.23" type="github" pages="3">
   <diagram id="fQzTnLMZr0oeQ_iGrPA_" name="lvl 0: Overview">
     <mxGraphModel dx="1017" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="lvGuIVhpEG7LHq2Fy3bW-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="lvGuIVhpEG7LHq2Fy3bW-15" target="lvGuIVhpEG7LHq2Fy3bW-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-15" value="&lt;b&gt;adb shell script:&lt;/b&gt;&lt;br&gt;-touch screen and navigate to create stories&lt;br&gt;- screenshot # views and chat" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-15" value="&lt;b&gt;adb shell scripts:&lt;/b&gt;&lt;br&gt;-touch screen and navigate to create stories&lt;br&gt;- screenshot # views and chat" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="355" y="420" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c8yaSzMgPAG63DoacE5f-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c8yaSzMgPAG63DoacE5f-2" target="lvGuIVhpEG7LHq2Fy3bW-10" edge="1">
