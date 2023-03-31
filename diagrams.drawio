@@ -1,1 +1,149 @@
-<mxfile host="Electron" modified="2023-03-26T01:57:53.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.3.0 Chrome/104.0.5112.114 Electron/20.1.3 Safari/537.36" etag="iSJNWW65q-f-8yKUcOW0" version="20.3.0" type="device" pages="3"><diagram id="fQzTnLMZr0oeQ_iGrPA_" name="lvl 0: Overview">zVlbb+I6EP41SGcfQM4VeKQsy1balapTabt9NImb+CjEOY4DZH/9jhPnHlJaoLQvzUzGjj3fNxebkbHcHtYcR/5P5pJgpCP3MDK+jnRdm00R/JOaNNfMrGmu8Dh1lVGleKR/iFKqcV5CXRI3DAVjgaBRU+mwMCSOaOgw52zfNHthQfOrEfZIR/Ho4KCrfaKu8ItdoEr/nVDPL76sIfVmiwtjpYh97LJ9TWWsRsaSMybyp+1hSQLpvMIv+bhvR96WC+MkFKcMCHbr5P6XH63W0x/f/9e/pcbmaWzns+xwkKgNq8WKtPAAccEhSmRc+MxjIQ5WlfaOsyR0ifwMAqmy+cFYBEoNlP8RIVKFLk4EA5UvtoF6Sw5U/JbDJ5aSntVk8vnroS6kSuhuX3kkZgl3yMCeCxph7hExYGfldnL/tQ8o564J2xLBUzDgJMCC7pqEwYp3Xmmnhi44x2nNIGI0FHFt5gepAAMVQqatZlQBNLVbMLfstbk1ZA8P+QoKqbaVSpVRp59GzizFj39+eg+LtQ2EwM7Keilc+sGsCWHRNdpI8bn+riJOJl2FOb3u0K/CnA7Utt6Cusg9xRT5QtWoBgfeivqQOxrJww7AMXcbePDkw78RBYslAwBYEBBeGMD3SptyEC80YxgzMlHGKMxBs5Bez1wGJKiSvRJdsqOAm47+2fs0IJltQr7AbHgLVLoLN3FU4l7jaMVASRkYK8hjhDMG7KGaNdl2lDU7wgU5DOJchqbdwGtWFLl9VVksfZ7r/HpVMdBxbjRQfSuE1lEIXbrrAFQoFqHLGcwL/vBZSIZABV1jpnMgwNxRycAwLoSI1owgc95FRFMJtIGIfS1AZq/H1JOPRYyjCMzukpiGJI77Ebgx3fVWJSodWXOuPu1xrqZdy7tFHL2pUDkJ35VuO7NO2Y1CNUFo9kqxyqQHwik4ANLn2RUMndj8aBfvfs4Crlj3UFxEKUATZsXilCKjjTMqZt8OcOL4ct3uJuvU8xXFDqcRVJmlLEed8fo46/JDGiXgAVl1XqD4xJl529aQtomggeQIfLWK4MXDfdfcbJov7mVtc2DQhokvN49rG+mTVtpEPWnTtD6ykBnmjSP7gzpQ68T4nX2q8DWsW6Kj1bFBk6l1e3g+WXY93gaWCbQ3NZ6aa8eC5QkWxhESyj2Esn0M8Y56efLMG3tOcikWjFMS98xUThL7TGSJ2ZArp2Qfl9PKVHmpVnOQEKcnTcNqpUy9J2Vafc2QfoGU2XtKNd4Rk2cf2k+KraFD9eudC7pVbA0teyi0lhzOx3hTi6aK79CZhFnkqO6m6koQAfbJfciairY07ImWT3kusFuHLrvnGFyyvhEK7fuNi4Fk36I8lZeepmnWrz0nSJsOXn1KoX0kqFqRZrG7Xq27WSfSfxmmty7DzPYhMt9Q5zKsM1HRoqaFeLVLtV4qTm9KxdPv3491V1dsrk49u34Q4yw0n8zrf2aTODqc7/X3cXBqGZPWZWEn+b2bhyBWvzrl5tVvd8bqLw==</diagram><diagram id="JGDr9ynH4ZzEKs6SBJtl" name="lvl1: python modules">7VhdT9swFP01fWTKR9PCIy3QTYKNCW3QJ+TGTmLmxJHjkIZfv+vGaZI6LdOgCg8IqcTHvte+5x77xhm583i9ECiNbjgmbORYeD1yL0aOY8Mf/FNIqZGzs0mFhIJijTXAHX0hGrQ0mlNMss5AyTmTNO2CPk8S4ssOhoTgRXdYwFl31hSFxADufMRM9J5iGVXoqWc1+FdCw6ie2bZ0T4zqwRrIIoR50YLcy5E7F5zL6ilezwlT7NW8VHZXe3q3CxMkkf9iEFxNfTsvSrS8uQ4YtdPU+32ivTwjluuAEV49AplScMaIGDkTBt5nK/UUqqcTGM5QnviRYhivVGS+oKnMdJiyrLkTPE8wUdPbYFhEVJK7FPmqtwC5ABbJmOluM5x6bURIsm5BOrwF4TGRooQhWlxuLZqiyZQ99iosamepzgnS6gi3vhoC4UFz2M/neJ5/z9Gp6yzEAytO54vlkvXwabBCMAhMN7mQEQ95gthlg84a3ixoNWOuOU81W09EylLvFpRL3uUyk0jIc6V+ABKekC2/avK9+tFQxnPhkwNB6phgkpDI18RlZksQhiR97q7jLZnondwxMhEjmvToOc0zJeWYYIo2p4taTYIFB/e96oczjkjSMgkEj18zEhAUUUEbZoFMFelEPO/bbmku4TfPQBKNtYoFrCB/aLMYdbIpB0PtQd3rjPXWOrQnp8fak5MUsZm/uMLB09L66f3C2Y9vPXuyiNAjSul7kGUw08PfXrI8e4csp4esutRE3TJzJLLMbaPI8iMkV1CohiZsan04wsZDHPBAlygflP0Xr24u230Xa+28apW69X9FoDdu94MVgd5FekMkZwCSnSFJnnzugDo5++vPUMmZfibnYHIG3TmuUWxvSyA7Gb7Oep0y6/WU2W0pbpfZybHuVeZrCVzRmcETRCy7ZCBGwwSefYgcXo/dmeKFgvG57ogpxpXqSUZf0GrjSokx5TSRmzi82ci7UL5A6Fml+eqWJfgfMueMg9/6mhVQxnagd8iHPd157/E8IyHjnny4x8rH2MjHMOcMfpdb7qELZPsE2S/NN5wg2vRWye3APWq6k8pq/dqq/dlnx5E98Q47qgI0HG1ksY2nTynQbL5eVcObj4Du5V8=</diagram><diagram id="ckQndBuQ4Vw3okKZTqqU" name="lvl2: main.py Objects">zVZtU9swDP41uYMP4fLSBvoR2jLGAbet3bruC+fWJgnnWMGxadJfP7lxSLO23HZ7YZ9iPZIt6ZFsxQmHWflOkjy5Bcq4E3i0dMKREwTuaTTAj0GqGjnzoxqIZUpryG+BSbpmFvQsqlPKio6hAuAqzbvgEoRgS9XBiJSw6po9AO96zUnMdoDJkvBddJZSldgs+l6LX7E0ThrPvmc1GWmMLVAkhMJqCwrHTjiUAKpeZeWQcUNew0u97/KA9iUwyYT6mQ1f+OROu5/dpzIZPn3w0pJPF25Yn/JMuLYJ22BV1TDAKBJiRZAqgRgE4eMWvZCgBWXGjYdSa3MDkCPoI/jIlKpsdYlWgFCiMm61tU/j6GBuFipAy6W1WrD1+BNMb2e9UTDQU3H6pGdNQorImKlXEg9eKoCtyyBjSla4TzJOVPrcjYPYHopf7FqacWGZ3s/6t7mn9flNOJKPa52N17O76bX7JiQjlbL6avaf9Btxvq0blfbwWqqs9HeLc32Z9ou5oBC/z64+zuaDfkRc/x8V57Ugt65ERlJxklc7RWtLYjhcJalik5xsGFjha7ivx5+ZVKx8ncjdxO2G4LRng7OPaeT3a3nVPk29vsWSrWcp8n6frMPXqEMWPsQK87nXOSWKSSc8d4KIYxwXC4mr2Kxc3FLr76350fH/x26vt8uu3zC5ze7gD7B7+B502H1IObtPiKCcySNCFxv+JHAUjw9SnesiMQRjmOEy30xQE62gEtC9GYrSyHTRqHIoVG1hBhngjbMKMz0xoyAimSmAWBT5hvx9XpecEdG4xd8CpnCOozMJmXGRgGC7B71xD4Re8EMPBHt64GzPDfP9X28CFNvxv9Ft/USF4+8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-31T21:34:31.038Z" agent="5.0 (Windows)" etag="AQ9tB62a327tkhm6qXam" version="20.8.23" type="github" pages="4">
+  <diagram id="fQzTnLMZr0oeQ_iGrPA_" name="lvl 0: Overview">
+    <mxGraphModel dx="1017" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="lvGuIVhpEG7LHq2Fy3bW-1" target="lvGuIVhpEG7LHq2Fy3bW-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="461" y="760" />
+              <mxPoint x="195" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c8yaSzMgPAG63DoacE5f-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lvGuIVhpEG7LHq2Fy3bW-1" target="c8yaSzMgPAG63DoacE5f-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-1" value="&lt;b&gt;Rpi Controller&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="196" y="810" width="529" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-5" value="&lt;div&gt;&lt;b&gt;Android phone&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=33;" parent="1" vertex="1">
+          <mxGeometry x="115" y="490" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-8" value="&lt;b&gt;Whatsapp Business&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="160" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.56;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lvGuIVhpEG7LHq2Fy3bW-10" target="lvGuIVhpEG7LHq2Fy3bW-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-10" value="&lt;b&gt;python:&lt;/b&gt;&lt;br&gt;1- will lauch adb shell script, &lt;br&gt;2- manipulate files,&lt;br&gt;3- utilize whatsapp API&lt;br&gt;4- utilize AI (chatbot)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="400" width="145" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lvGuIVhpEG7LHq2Fy3bW-15" target="lvGuIVhpEG7LHq2Fy3bW-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="lvGuIVhpEG7LHq2Fy3bW-15" target="lvGuIVhpEG7LHq2Fy3bW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvGuIVhpEG7LHq2Fy3bW-15" value="&lt;b&gt;adb shell scripts:&lt;/b&gt;&lt;br&gt;-touch screen and navigate to create stories&lt;br&gt;- screenshot # views and chat" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="355" y="420" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c8yaSzMgPAG63DoacE5f-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c8yaSzMgPAG63DoacE5f-2" target="lvGuIVhpEG7LHq2Fy3bW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8yaSzMgPAG63DoacE5f-2" value="&lt;b&gt;Crontab:&lt;br&gt;launch python script every 30 mins&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="610" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="c8yaSzMgPAG63DoacE5f-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.444;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lvGuIVhpEG7LHq2Fy3bW-5" target="lvGuIVhpEG7LHq2Fy3bW-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="410" as="sourcePoint" />
+            <mxPoint x="30" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c8yaSzMgPAG63DoacE5f-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lvGuIVhpEG7LHq2Fy3bW-10" target="lvGuIVhpEG7LHq2Fy3bW-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509.99999999999994" y="321.02" as="sourcePoint" />
+            <mxPoint x="753.96" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JGDr9ynH4ZzEKs6SBJtl" name="lvl1: python modules">
+    <mxGraphModel dx="838" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fF7c1uwyaYMLfli1pp5V-1" value="adb_controller&lt;br&gt;- launch adb scripts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="310" width="145" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4CuNua832GrXlw8CGYYl-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="4CuNua832GrXlw8CGYYl-2" target="fF7c1uwyaYMLfli1pp5V-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fF7c1uwyaYMLfli1pp5V-2" value="main&lt;br&gt;-push media to android&lt;br&gt;- delete media from android&lt;br&gt;- retreive media from ftp server&lt;br&gt;- put used media in separate folder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="310" width="175" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6palBcGFdfjY0Q5UdsOI-1" value="wha_api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="320" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6palBcGFdfjY0Q5UdsOI-2" value="wha_chatbot" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="320" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6palBcGFdfjY0Q5UdsOI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6palBcGFdfjY0Q5UdsOI-3" target="fF7c1uwyaYMLfli1pp5V-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6palBcGFdfjY0Q5UdsOI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6palBcGFdfjY0Q5UdsOI-3" target="fF7c1uwyaYMLfli1pp5V-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6palBcGFdfjY0Q5UdsOI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6palBcGFdfjY0Q5UdsOI-3" target="6palBcGFdfjY0Q5UdsOI-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6palBcGFdfjY0Q5UdsOI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6palBcGFdfjY0Q5UdsOI-3" target="6palBcGFdfjY0Q5UdsOI-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6palBcGFdfjY0Q5UdsOI-3" value="Python" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="75" y="520" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4CuNua832GrXlw8CGYYl-2" value="call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="355" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CuNua832GrXlw8CGYYl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="fF7c1uwyaYMLfli1pp5V-2" target="4CuNua832GrXlw8CGYYl-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="370" as="sourcePoint" />
+            <mxPoint x="165" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2OMTZVMz6lthPgsN12Py" name="lvl1: ADB Shell scripts">
+    <mxGraphModel dx="712" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2j2p5ngQEE8PRmPVRbpx-1" value="&lt;div&gt;post.sh&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2j2p5ngQEE8PRmPVRbpx-2" value="capture.sh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ckQndBuQ4Vw3okKZTqqU" name="lvl2: main.py Objects">
+    <mxGraphModel dx="-769" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VlSNu-U-qxhCqP0ixlTb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bezERoTMW4D29uTn7quW-3" target="VlSNu-U-qxhCqP0ixlTb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY0uuAL3DrjzumEzWNTJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bezERoTMW4D29uTn7quW-3" target="JFi5sYndogImHQWY956a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bezERoTMW4D29uTn7quW-3" value="main.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2743" y="615" width="455" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VlSNu-U-qxhCqP0ixlTb-2" value="content_updater:&lt;br&gt;- update_content()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2743" y="445" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JFi5sYndogImHQWY956a-1" value="file_handler(adb_controller):&lt;br&gt;- push() #cp to android for adb to post and move to old/&amp;nbsp;&lt;br&gt;- clean() #deletes from phone&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3023" y="425" width="185" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
