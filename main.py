@@ -1,21 +1,24 @@
-import os
-from random import choice
+import subprocess
+import file_handler
 from datetime import datetime
 
-class py_controller:
-    def move(self):
-        dir = os.listdir()
-        file = choice(dir)
-        os.rename(file,f"dropbox/{file}")
+class adb_controller:
+    def __init__(self) -> None:
+        pass
 
-    def remove(self):
-        os.chdir("./dropbox/")
-        os.remove('*')
+    def post_wha_story(self):
+        subprocess.run('./post.sh'.split())
+    
+    def reboot():
+        subprocess.run('./reboot.sh'.split())
 
 if __name__ == "__main__":
-    #c = py_controller()
-    #c.move()
-    #os.system("./script.sh")
-    #c.remove()
+    adb = adb_controller()
+    fh = file_handler.file_handler()
+    r = fh.push()
+    if not r:
+        with open('log.txt', 'a') as f:
+            f.write(f'{datetime.now()}: Error while pushing files\n')
     with open('log.txt', 'a') as f:
-        f.write(f'main.py ran on {datetime.now()}')
+        f.write(f'{datetime.now()}: \n')
+    adb.reboot()

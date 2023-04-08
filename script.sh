@@ -1,7 +1,7 @@
 #! /bin/bash
 
-echo "clicking on file btn"
-adb shell input tap 71 382
+echo "clicking wha icon"
+adb shell input tap 266.6 231.8
 
 sleep 5
 echo "filtering by image"
