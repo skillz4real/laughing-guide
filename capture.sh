@@ -17,7 +17,6 @@ adb shell input tap 542 345
 
 sleep 5
 echo "taking screenshot"
-export DATE=$(date)
 adb shell screencap -p /sdcard/DCIM/views_${DATE}.png
 
 sleep 5
