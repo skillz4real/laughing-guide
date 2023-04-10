@@ -7,6 +7,11 @@ sleep 5
 echo "clicking on status tab"
 adb shell input tap 397.3 238.8
 
+sleep
+echo "clicking on 'My status'"
+adb shell input tap 260.6 370.7
+
+
 sleep 5
 echo "clicking on media icon"
 adb shell input tap 73.9 992.2
