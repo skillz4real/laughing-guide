@@ -3,7 +3,7 @@
 echo "clicking wha icon"
 adb shell input tap 266.6 231.8
 
-sleep 5
+sleep 10
 echo "clicking on status tab"
 adb shell input tap 397.3 238.8
 
