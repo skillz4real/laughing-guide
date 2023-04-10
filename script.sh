@@ -4,43 +4,27 @@ echo "clicking wha icon"
 adb shell input tap 266.6 231.8
 
 sleep 5
-echo "filtering by image"
-adb shell input tap 61 182
+echo "clicking on status tab"
+adb shell input tap 397.3 238.8
 
 sleep 5
-echo "filtering by video"
-adb shell input tap 287 189
+echo "clicking on media icon"
+adb shell input tap 73.9 992.2
 
 sleep 5
-echo "clicking on option btn(...)"
-adb shell input tap 466 66
+echo "clicking on first media"
+adb shell input tap 115.8 406.7
 
 sleep 5
-echo "clicking on select all opt"
-adb shell input tap 355 220
+echo "sending status update"
+adb shell input tap 652 1121
 
 sleep 5
-echo "clicking on share (opens wha)"
-adb shell input tap 356 59
+echo "clicking on task viewer"
+adb shell input tap 566.2 1208.0
 
 sleep 5
-echo "clicking on status"
-adb shell input tap 94 138
-
-sleep 5
-echo "clicking on arrow bottom right of screen"
-adb shell input tap 464 861
-
-sleep 5
-echo "clicking on arrow"
-adb shell input tap 464 861
-
-sleep 5
-echo "clicking on square"
-adb shell input tap 388 923
-
-sleep 5
-echo "swiping up to apps (clearing ram)"
-adb shell input swipe 267 740 267 51 500
+echo "flushing ram"
+adb shell input swipe 578.2 1046.1 80.9 1113.0 500
 
 echo "Done"
