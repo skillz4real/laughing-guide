@@ -1,18 +1,28 @@
-# go to whatsapp views menu
+#! /bin/bash
 
+echo "clicking wha icon"
+adb shell input tap 266.6 231.8
 
-# take screenshot
+sleep 5
+echo "taking screenshot"
+adb shell screencap -p /sdcard/DCIM/chat_${DATE}.png
+
+sleep 5
+echo "clicking on status tab"
+adb shell input tap 397.3 238.8
+
+sleep 5
+echo "clicking on ..."
+adb shell input tap 542 345
+
+sleep 5
+echo "taking screenshot"
 export DATE=$(date)
 adb shell screencap -p /sdcard/DCIM/views_${DATE}.png
 
-#go to whatsapp discussion menu
-
-
-#take screenshot
-adb shell screencap -p /sdcard/DCIM/chat_${DATE}.png
-
-
-#clean
+sleep 5
+echo "flushing ram"
+adb shell input swipe 578.2 1046.1 80.9 1113.0 500
 
 
 #pull screenshot
