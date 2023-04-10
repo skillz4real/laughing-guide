@@ -8,8 +8,8 @@ echo "clicking on status tab"
 adb shell input tap 397.3 238.8
 
 sleep
-echo "clicking on 'My status'"
-adb shell input tap 260.6 370.7
+echo "clicking on camera icon"
+adb shell input tap 526.0 1082.1
 
 
 sleep 5
