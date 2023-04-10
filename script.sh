@@ -9,8 +9,7 @@ adb shell input tap 397.3 238.8
 
 sleep 5
 echo "clicking on camera icon"
-adb shell input tap 526.0 1082.1
-
+adb shell input tap 599.0 1064
 
 sleep 5
 echo "clicking on media icon"
