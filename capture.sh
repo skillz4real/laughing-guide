@@ -19,10 +19,14 @@ sleep 5
 echo "taking screenshot"
 adb shell screencap -p /sdcard/DCIM/views_${DATE}.png
 
+ sleep 5
+echo "clicking on task viewer"
+adb shell input tap 566.2 1208.0
+
 sleep 5
 echo "flushing ram"
 adb shell input swipe 578.2 1046.1 80.9 1113.0 500
 
 
 #pull screenshot
-cd ./data/ && adb pull /sdcard/DCIM/*
+cd ./data/ && adb pull /sdcard/DCIM/
