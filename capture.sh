@@ -13,7 +13,7 @@ adb shell input tap 397.3 238.8
 
 sleep 5
 echo "clicking on ..."
-adb shell input tap 542 345
+adb shell input tap 685 328.7
 
 sleep 5
 echo "taking screenshot"
@@ -25,4 +25,4 @@ adb shell input swipe 578.2 1046.1 80.9 1113.0 500
 
 
 #pull screenshot
-cd /home/z/laughing-guide/data/ && adb pull /sdcard/DCIM/*
+cd ./data/ && adb pull /sdcard/DCIM/*
