@@ -1,6 +1,4 @@
 import subprocess
-import file_handler
-from datetime import datetime
 
 class adb_controller:
     def __init__(self) -> None:
