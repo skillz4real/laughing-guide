@@ -16,7 +16,7 @@ class adb_controller:
     def push(self):
         subprocess.run('./push_content_2_phone.sh'.split())    
     
-    def reboot():
+    def reboot(self):
         subprocess.run('./reboot.sh'.split())
 
 if __name__ == "__main__":
