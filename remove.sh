@@ -10,10 +10,19 @@ adb shell input tap 32 161.8
 sleep 5
 echo "click on trash"
 adb shell input tap 592 97
+sleep 1
+echo "click on trash"
+adb shell input tap 592 97
 
 sleep 5
 echo "click on popup yes"
 adb shell input tap 599.2 90.9
+
+sleep 5
+echo "clicking on task viewer"
+adb shell input tap 566.2 1208.0
+sleep 1
+adb shell input tap 566.2 1208.0
 
 sleep 5
 echo "flushin ram"
