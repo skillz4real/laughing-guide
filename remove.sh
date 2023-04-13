@@ -4,16 +4,12 @@ echo "click on galerie"
 adb shell input tap 80.9 477.6
 
 sleep 5
-echo "click on tick"
-adb shell input tap 673 106.9
-
-sleep 5
 echo "click on 1st media"
 adb shell input tap 32 161.8
 
 sleep 5
 echo "click on trash"
-adb shell input tap 599.2 90.9
+adb shell input tap 592 97
 
 sleep 5
 echo "click on popup yes"
