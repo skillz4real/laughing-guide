@@ -1,15 +1,10 @@
-import subprocess
+import moviepy.editor as moviepy
+import os
 
-class adb_controller:
-    def __init__(self) -> None:
+dir = '/home/ftpuser/whacontent'
+content = os.listdir(dir)
+for file in dir:
+    if file.endswith():
         pass
-
-    def post_wha_story(self):
-        subprocess.run('./post.sh'.split)
-    
-    def reboot():
-        subprocess.run('./reboot.sh'.split())
-
-if __name__ == "__main__":
-    adb = adb_controller()
-    adb.reboot()
+    clip = moviepy.VideoFileClip(f"{dir}/{file}")
+    clip.write_videofile(f"{file.rsplit('.',1)[0]}.mp4")
