@@ -16,7 +16,7 @@ adb shell input tap 592 97
 
 sleep 5
 echo "click on popup yes"
-adb shell input tap 599.2 90.9
+adb shell input tap 499.2 678.5
 
 sleep 5
 echo "clicking on task viewer"
