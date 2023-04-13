@@ -8,8 +8,8 @@ import subprocess
 class file_handler():
     def __init__(self) -> None:
         self.origin = r'/home/ftpuser/content/'
-        self.dest = r'/sdcard/DCIM/Camera/'
         self.old = r'/home/ftpuser/content/old/'
+
     def push(self):
         try:
             for i in range(48):

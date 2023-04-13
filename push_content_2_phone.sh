@@ -2,4 +2,4 @@
 
 echo "pushing files"
 sleep 5
-adb push content/* /sdcard/DCIM/Camera/
+adb push /home/ftpuser/content/* /sdcard/DCIM/Camera/
